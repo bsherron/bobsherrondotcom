@@ -66,10 +66,10 @@ h1 {
     font-weight: normal;
 }
 h1 span {
- font-size: .8em;
-    
+    font-size: .6em;
+    letter-spacing:1px;
     display: block;
-    line-height: .7em;
+    line-height: 1.6em;
 }
 h2 {
     padding-top: 14px;
@@ -85,7 +85,7 @@ h2 {
 }
 
 p {
-    font-size: 1.4em;
+    font-size: 1.5em;
     line-height: 1.4em;
     font-weight: 300;
     max-width: 460px;
